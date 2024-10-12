@@ -1,6 +1,6 @@
-# Hi there, I'm Beatriz Pimentel 👋
+# Hi there, I'm Beatriz Paz 👋
 
-I'm a passionate Developer Relations professional with a love for AI, frontend development, product design, and media. I enjoy bridging the gap between developers and technology, and helping to create amazing developer experiences.
+I'm a passionate Developer Marketer professional with a love for AI, frontend development, product design, and media. I enjoy bridging the gap between developers and technology, and helping to create amazing developer experiences.
 
 ## What I'm working on 🚀
 
