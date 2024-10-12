@@ -10,8 +10,8 @@ I'm a passionate Developer Marketer professional with a love for AI, frontend de
 
 ## Let's connect! 🌎
 
-- [Twitter](https://twitter.com/yourtwitterhandle) 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinhandle/)
+- [Twitter](https://x.com/beappx)
+- [LinkedIn](https://www.linkedin.com/in/beapaz/)
 
 Feel free to reach out if you'd like to chat about all things developers, tech, and media. I'm always excited to meet fellow passionate devs! 😊
 ``` [Source](https://github.com/wesbos/awesome-uses) [Source](https://www.reddit.com/r/webdev/comments/90xmpw/how
